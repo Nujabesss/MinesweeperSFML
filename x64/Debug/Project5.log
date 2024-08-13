@@ -1,0 +1,5 @@
+﻿  Games.cpp
+C:\Users\Nujabes\source\repos\Project5\Games.cpp(145,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Nujabes\source\repos\Project5\Games.cpp(163,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Nujabes\source\repos\Project5\Games.cpp(163,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Project5.vcxproj -> C:\Users\Nujabes\source\repos\Project5\x64\Debug\Project5.exe
